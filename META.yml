@@ -25,4 +25,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/hatukanezumi/Unicode-LineBreak/
-version: '2015.06'
+version: v2015.07.16
