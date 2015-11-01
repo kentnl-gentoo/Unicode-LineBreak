@@ -4,7 +4,7 @@
       "Hatuka*nezumi - IKEDA Soji <hatuka@nezumi.nu>"
    ],
    "dynamic_config" : "1",
-   "generated_by" : "ExtUtils::MakeMaker version 6.68, CPAN::Meta::Converter version 2.150001",
+   "generated_by" : "ExtUtils::MakeMaker version 7.0401, CPAN::Meta::Converter version 2.150001",
    "license" : [
       "perl_5"
    ],
@@ -48,5 +48,5 @@
          "url" : "https://github.com/hatukanezumi/Unicode-LineBreak/"
       }
    },
-   "version" : "v2015.07.16"
+   "version" : "2015.11"
 }
