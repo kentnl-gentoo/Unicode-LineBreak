@@ -1,3 +1,10 @@
+2015.011_03  Sun Nov 03 2015
+! LineBreak.xs
+  - Bug fix: CPAN RT #106714: Unicode::GCString fails to handle numeric value,
+    mostly on *BSD and Mac OS X.
+! t/10gcstring.t
+  - Adding more case.
+
 2015.11  Sun Nov 01 2015
 # No new features.
 ! lib/Unicode/LineBreak.pm

@@ -61,7 +61,7 @@ while ($gc = <$string>) {
     is($gc, shift @s);
 }
 
-$string = Unicode::GCString->new("5");
 my $number = Unicode::GCString->new(5);
-is($string->columns, 1);
-is($number->columns, 1);
+is($number->columns, 1, 'number "5"');
+$number = Unicode::GCString->new(0);
+is($number->columns, 1, 'number "0"');
