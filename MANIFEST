@@ -67,7 +67,6 @@ t/17prop.t
 t/18currency.t
 t/lb.pl
 t/lf.pl
-t/pod.t
 test-data/amitagyong.in
 test-data/amitagyong.out
 test-data/ar.in
