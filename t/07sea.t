@@ -1,6 +1,6 @@
 use strict;
 use Test::More;
-require "t/lb.pl";
+require "./t/lb.pl";
 
 BEGIN {
     require Unicode::LineBreak;
